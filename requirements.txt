@@ -1,0 +1,4 @@
+pytest
+pyserial
+python-dotenv
+pandas

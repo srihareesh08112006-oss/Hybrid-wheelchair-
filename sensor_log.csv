@@ -1,0 +1,11 @@
+timestamp_ms,torque_nm,speed_kmh,battery_pct,current_a,mode
+0,0.0,0.0,95,0.0,idle
+10,2.1,0.4,95,1.2,assist
+20,4.5,0.9,95,2.8,assist
+30,6.0,1.5,95,3.9,assist
+40,5.2,2.3,94,3.4,assist
+50,3.0,3.1,94,2.0,assist
+60,0.5,3.4,94,0.4,assist
+70,0.0,3.2,94,0.0,assist
+80,7.0,5.9,19,8.5,assist
+90,8.0,6.1,19,16.2,fault
